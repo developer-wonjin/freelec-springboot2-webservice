@@ -132,5 +132,7 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-
+application-oauth.yml
+.gradle
+.idea
 # End of https://www.toptal.com/developers/gitignore/api/intellij,gradle
